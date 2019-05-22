@@ -3,6 +3,6 @@
 
 <p>Big chungus just wants his carrots</p>
 
-<img src =”file:///C:/Users/s1/Downloads/bigcr.png”>
+<imgsrc =”file:///C:/Users/s1/Downloads/bigcr.png”>
 
 
