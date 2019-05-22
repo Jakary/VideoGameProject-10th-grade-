@@ -1,5 +1,5 @@
 # BigChungusTHEGAME
 Mmm.....Carrots
-<hl>BigChungus</hl>
+<hi>BigChungus</hi>
 
 <p>Big chungus just wants his carrots</p>
